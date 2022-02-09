@@ -426,9 +426,7 @@
     text-align: center;
 }
 #video-section-two .fp-tableCell,
-#video-section-three .fp-tableCell,
-#video-section-four .fp-tableCell ,
-#video-section-five .fp-tableCell  {
+#video-section-three .fp-tableCell {
     display: block;
 }
 .women-video {
@@ -453,8 +451,6 @@
 }
 .video-section__text-four h1 {
     line-height: 60px;
-    font-size: 35px;
-    font-family: var(--primary-font-black);
   }
 .video-section__text-four span{
     color: #00DC84;
