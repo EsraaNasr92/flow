@@ -18,11 +18,12 @@ const Program = () => {
                         <div className='col-md-4' id='program-second_column'>
                             <video
                                 className="video"
-                                src={mobile}
-                                autoPlay
                                 muted
                                 loop
-                            ></video>
+                                data-autoplay
+                            >
+                                <source src={mobile} type="video/mp4" />
+                            </video>
                         </div>
                         <div className='col-md-4' id='program-third_column'>
                             <h1>No more abandoned resolutions!</h1>

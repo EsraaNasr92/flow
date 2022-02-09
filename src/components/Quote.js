@@ -7,7 +7,7 @@ import firstImgRight from './assets/2.png';
 
 const Quote = () =>{
     return(
-        <div className='section fp-auto-height-responsive' id='subscribe'>
+        <div className='section' id='subscribe'>
             <div className='container'>
                 <div className="row">
                     <div className="col-md-3" id="left-img">

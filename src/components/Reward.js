@@ -13,7 +13,7 @@ const Reward = () => {
         });
     }, []);
     return(
-            <div className='section fp-auto-height-responsive' id='reward-section'>
+            <div className='section' id='reward-section'>
                 <div className='container'>
                     <div className='row'>
                         <div className='reward-section__text'>

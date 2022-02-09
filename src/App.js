@@ -8,6 +8,7 @@ import Video from "./components/Video";
 import VideoTwo from './components/VideoTwo';
 import VideoThree from './components/VideoThree';
 import VideoFour from './components/VideoFour';
+import VideoFive from './components/VideoFive';
 import Reward from "./components/Reward";
 import Quote from "./components/Quote";
 import Contact from "./components/Contact";
@@ -27,13 +28,14 @@ class App extends React.Component {
         licenseKey={"1D2C3363-9E204A14-B69CBB27-FE85CA55"}
         fadingEffect
         responsiveWidth={800}
-        afterLoad={(origin, destination, direction) => {
+        
+       afterLoad={(origin, destination, direction) => {
           console.log("afterLoad event", { origin, destination, direction });
           if(destination.index === 0 || destination.index === 1){
             window.fullpage_api.fadingEffect.turnOff();
           }if(destination.index === 2 || destination.index === 3 || 
             destination.index === 4 || destination.index === 5 
-            ||destination.index === 6){
+            ||destination.index === 6 || destination.index === 7){
             window.fullpage_api.fadingEffect.turnOn();
           }else{
             window.fullpage_api.fadingEffect.turnOff();
@@ -41,6 +43,7 @@ class App extends React.Component {
         }}
 
         afterResponsive={(isResponsive) =>{
+          //window.fullpage_api.destroy();
           window.fullpage_api.fadingEffect.turnOff();
         }}
 
@@ -57,6 +60,7 @@ class App extends React.Component {
               <VideoTwo />
               <VideoThree /> 
               <VideoFour />
+              <VideoFive />
               <Reward />
               <Quote />
               <Contact />
