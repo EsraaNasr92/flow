@@ -771,27 +771,41 @@ position: relative;
   .navbar-toggler {
     display: none;
   }
+  .navbar-expand-lg{
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  .ant-anchor{
+    display: none;
+  }
   /* Banner */
   .banner-section_left h2 {
-    font-size: 23px;
-    line-height: 32px;
+    font-size: 20px;
+    line-height: 30px;
     padding-top: 70px;
   }
   .newsletter{
     margin: 10px auto;
+    padding: 10px;
   }
   .rating{
     margin-bottom: 0;
   }
   .banner-section_left h4 {
     padding-top: 5px;
-    font-size: 20px;
+    font-size: 15px;
   }
   .banner-image {
-    padding-top: 10px;
+    padding-top: 5px;
+    width: 95%;
+    margin: 0 auto;
   }
   .voice p {
-    font-size: 15px;
+    font-size: 11px;
+  }
+  .sound-wave{
+    width: 50px;
+    height: 50px;
   }
   /* Program */
   #program-first_column {
@@ -834,9 +848,6 @@ position: relative;
   .contact-section_img__top {
     display: none;
   }
-  .voice{
-    display: none;
-  }
   .quote-author{
     margin-top: 15px;
   }
@@ -869,13 +880,27 @@ position: relative;
   .banner-section_left{
       padding-top: 30px;
   }
+  .banner-section_left p{
+    font-size: 9px;
+  }
+  .hvr-radial-out{
+    width: 35px;
+    height: 35px;
+    font-size: 21px;
+    line-height: 30px;
+  }
   .newsletter input{
-      width: 95%;
+      width: 60%;
+      font-size: 12px;
       margin-bottom: 10px;
   }
   .newsletter-btn{
       margin-left: 0;
-      width: 95%;
+      width: 40%;
+      padding: 10px 2px;
+  }
+  .rating im{
+    width: 86px;
   }
   .voice{
       width: 100%;
@@ -904,7 +929,7 @@ position: relative;
       padding: 30px;
   }
   .rating{
-      display: block;
+      display: flex;
   }
   #contact-section .social-media{
       margin-bottom: 30px;
