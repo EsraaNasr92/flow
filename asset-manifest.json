@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/flow/static/css/main.a092c3db.css",
-    "main.js": "/flow/static/js/main.889ca6f8.js",
+    "main.css": "/flow/static/css/main.2b03bcb2.css",
+    "main.js": "/flow/static/js/main.fc5cffd4.js",
     "static/js/787.e0a751ef.chunk.js": "/flow/static/js/787.e0a751ef.chunk.js",
     "static/media/flow_2.mp4": "/flow/static/media/flow_2.93f5c2ac94e0e2ea5163.mp4",
     "static/media/flow_3.mp4": "/flow/static/media/flow_3.d8b0e4675818ddf5cff2.mp4",
@@ -28,12 +28,12 @@
     "static/media/mulish-bold-webfont.woff2": "/flow/static/media/mulish-bold-webfont.8232d673f94cf2439226.woff2",
     "static/media/mulish-regular-webfont.woff2": "/flow/static/media/mulish-regular-webfont.85054c3d5681f9b39ee7.woff2",
     "index.html": "/flow/index.html",
-    "main.a092c3db.css.map": "/flow/static/css/main.a092c3db.css.map",
-    "main.889ca6f8.js.map": "/flow/static/js/main.889ca6f8.js.map",
+    "main.2b03bcb2.css.map": "/flow/static/css/main.2b03bcb2.css.map",
+    "main.fc5cffd4.js.map": "/flow/static/js/main.fc5cffd4.js.map",
     "787.e0a751ef.chunk.js.map": "/flow/static/js/787.e0a751ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a092c3db.css",
-    "static/js/main.889ca6f8.js"
+    "static/css/main.2b03bcb2.css",
+    "static/js/main.fc5cffd4.js"
   ]
 }
