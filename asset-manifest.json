@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/flow/static/css/main.7b43a1fb.css",
+    "main.css": "/flow/static/css/main.2d0e0dab.css",
     "main.js": "/flow/static/js/main.56962ec8.js",
     "static/js/787.e0a751ef.chunk.js": "/flow/static/js/787.e0a751ef.chunk.js",
     "static/media/flow_2.mp4": "/flow/static/media/flow_2.93f5c2ac94e0e2ea5163.mp4",
@@ -27,12 +27,12 @@
     "static/media/mulish-bold-webfont.woff2": "/flow/static/media/mulish-bold-webfont.8232d673f94cf2439226.woff2",
     "static/media/mulish-regular-webfont.woff2": "/flow/static/media/mulish-regular-webfont.85054c3d5681f9b39ee7.woff2",
     "index.html": "/flow/index.html",
-    "main.7b43a1fb.css.map": "/flow/static/css/main.7b43a1fb.css.map",
+    "main.2d0e0dab.css.map": "/flow/static/css/main.2d0e0dab.css.map",
     "main.56962ec8.js.map": "/flow/static/js/main.56962ec8.js.map",
     "787.e0a751ef.chunk.js.map": "/flow/static/js/787.e0a751ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b43a1fb.css",
+    "static/css/main.2d0e0dab.css",
     "static/js/main.56962ec8.js"
   ]
 }
