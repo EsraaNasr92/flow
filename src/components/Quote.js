@@ -28,6 +28,7 @@ const Quote = () =>{
                                 <h6>Co-founder & CEO</h6>
                             </div>
                         </div>
+                        <div className="mobile-txt">Subscribe to get 30 days for free</div>
                         <div className='newsletter' id='quote-section__newsletter'>
                             <MailchimpForm  />
                         </div>

@@ -21,6 +21,7 @@ const Program = () => {
                                 muted
                                 loop
                                 data-autoplay
+                                playsInline
                             >
                                 <source src={mobile} type="video/mp4" />
                             </video>

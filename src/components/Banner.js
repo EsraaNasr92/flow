@@ -22,7 +22,7 @@ const Banner = () =>{
     return(
             <div id='banner' className='section fp-auto-height-responsive'>
                 <Header />
-                <div className="banner-respoansive container">
+                <div className="banner-respoansive container" id="desktop-version">
                     <div className="row">
 
                         <div className='col-xxl-6 col-md-6 banner-section_left'>
@@ -70,7 +70,6 @@ const Banner = () =>{
                     </div>
                 </div>
         </div>
-
     );
 }
 

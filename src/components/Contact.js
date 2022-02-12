@@ -48,7 +48,7 @@ const Contact = () =>{
     //};
 
     return(
-            <div className='section fp-auto-height-responsive' id='contact-section'>
+            <div className='section' id='contact-section'>
                 <div className='container'>
                     <div className='row'>
                         <div className='col-md-6' id='contact-section_form'>

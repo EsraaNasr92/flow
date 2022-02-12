@@ -2,7 +2,7 @@ import React from "react";
 
 const Question = () => {
     return(
-        <div className='section fp-auto-height-responsive' id='question'>
+        <div className='section' id='question'>
             <div className='container'>
                 <div className='row'>
                     <div className="question-title">

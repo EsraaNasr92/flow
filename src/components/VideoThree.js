@@ -14,6 +14,7 @@ const VideoThree = () =>{
                                 data-autoplay
                                 muted
                                 loop
+                                playsInline
                         ></video>
                     </div>     
                 </div>

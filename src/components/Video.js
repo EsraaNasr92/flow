@@ -13,6 +13,7 @@ const Video = () =>{
                             data-autoplay
                             muted
                             loop
+                            playsInline
                         >
                         </video> 
                     </div>     
