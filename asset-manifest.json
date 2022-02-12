@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/flow/static/css/main.513cd392.css",
-    "main.js": "/flow/static/js/main.c145609d.js",
+    "main.css": "/flow/static/css/main.c659591d.css",
+    "main.js": "/flow/static/js/main.d0306d7e.js",
     "static/js/787.e0a751ef.chunk.js": "/flow/static/js/787.e0a751ef.chunk.js",
     "static/media/flow_2.mp4": "/flow/static/media/flow_2.93f5c2ac94e0e2ea5163.mp4",
     "static/media/flow_3.mp4": "/flow/static/media/flow_3.d8b0e4675818ddf5cff2.mp4",
@@ -27,12 +27,12 @@
     "static/media/mulish-bold-webfont.woff2": "/flow/static/media/mulish-bold-webfont.8232d673f94cf2439226.woff2",
     "static/media/mulish-regular-webfont.woff2": "/flow/static/media/mulish-regular-webfont.85054c3d5681f9b39ee7.woff2",
     "index.html": "/flow/index.html",
-    "main.513cd392.css.map": "/flow/static/css/main.513cd392.css.map",
-    "main.c145609d.js.map": "/flow/static/js/main.c145609d.js.map",
+    "main.c659591d.css.map": "/flow/static/css/main.c659591d.css.map",
+    "main.d0306d7e.js.map": "/flow/static/js/main.d0306d7e.js.map",
     "787.e0a751ef.chunk.js.map": "/flow/static/js/787.e0a751ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.513cd392.css",
-    "static/js/main.c145609d.js"
+    "static/css/main.c659591d.css",
+    "static/js/main.d0306d7e.js"
   ]
 }
