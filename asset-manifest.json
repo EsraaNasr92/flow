@@ -1,14 +1,12 @@
 {
   "files": {
-    "main.css": "/flow/static/css/main.ca97b7f9.css",
-    "main.js": "/flow/static/js/main.89adcb07.js",
+    "main.css": "/flow/static/css/main.2e007c3d.css",
+    "main.js": "/flow/static/js/main.c5c52b42.js",
     "static/js/787.e0a751ef.chunk.js": "/flow/static/js/787.e0a751ef.chunk.js",
     "static/media/flow_2.mp4": "/flow/static/media/flow_2.93f5c2ac94e0e2ea5163.mp4",
     "static/media/flow_3.mp4": "/flow/static/media/flow_3.d8b0e4675818ddf5cff2.mp4",
     "static/media/flow_5.mp4": "/flow/static/media/flow_5.add504cafca7bc8ef483.mp4",
-    "static/media/vmobile_2.mp4": "/flow/static/media/vmobile_2.2cfe3239924ff35f64f1.mp4",
     "static/media/mobile.mp4": "/flow/static/media/mobile.ea58e88aa20a67abe765.mp4",
-    "static/media/vmobile_3.mp4": "/flow/static/media/vmobile_3.6f2f20b1ce6f5194065f.mp4",
     "static/media/hero_section_pic.png": "/flow/static/media/hero_section_pic.5d3cbf01067b4dd052bb.png",
     "static/media/flow_1.mp4": "/flow/static/media/flow_1.529659c693c0f08ae1cd.mp4",
     "static/media/2.png": "/flow/static/media/2.e8f66a1229aad2840892.png",
@@ -32,12 +30,12 @@
     "static/media/mulish-bold-webfont.woff2": "/flow/static/media/mulish-bold-webfont.8232d673f94cf2439226.woff2",
     "static/media/mulish-regular-webfont.woff2": "/flow/static/media/mulish-regular-webfont.85054c3d5681f9b39ee7.woff2",
     "index.html": "/flow/index.html",
-    "main.ca97b7f9.css.map": "/flow/static/css/main.ca97b7f9.css.map",
-    "main.89adcb07.js.map": "/flow/static/js/main.89adcb07.js.map",
+    "main.2e007c3d.css.map": "/flow/static/css/main.2e007c3d.css.map",
+    "main.c5c52b42.js.map": "/flow/static/js/main.c5c52b42.js.map",
     "787.e0a751ef.chunk.js.map": "/flow/static/js/787.e0a751ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca97b7f9.css",
-    "static/js/main.89adcb07.js"
+    "static/css/main.2e007c3d.css",
+    "static/js/main.c5c52b42.js"
   ]
 }
