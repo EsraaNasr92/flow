@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/flow/static/css/main.7baa976e.css",
-    "main.js": "/flow/static/js/main.3c0e88c1.js",
+    "main.js": "/flow/static/js/main.6db776d7.js",
     "static/js/787.e0a751ef.chunk.js": "/flow/static/js/787.e0a751ef.chunk.js",
+    "static/media/vmobile_4.mp4": "/flow/static/media/vmobile_4.f6922b36a241514c6723.mp4",
     "static/media/flow_2.mp4": "/flow/static/media/flow_2.93f5c2ac94e0e2ea5163.mp4",
     "static/media/flow_3.mp4": "/flow/static/media/flow_3.d8b0e4675818ddf5cff2.mp4",
     "static/media/flow_5.mp4": "/flow/static/media/flow_5.add504cafca7bc8ef483.mp4",
-    "static/media/vmobile_4.mp4": "/flow/static/media/vmobile_4.277b71891d4127f49e6f.mp4",
     "static/media/mobile.mp4": "/flow/static/media/mobile.ea58e88aa20a67abe765.mp4",
     "static/media/hero_section_pic.png": "/flow/static/media/hero_section_pic.5d3cbf01067b4dd052bb.png",
     "static/media/flow_1.mp4": "/flow/static/media/flow_1.529659c693c0f08ae1cd.mp4",
@@ -31,11 +31,11 @@
     "static/media/mulish-regular-webfont.woff2": "/flow/static/media/mulish-regular-webfont.85054c3d5681f9b39ee7.woff2",
     "index.html": "/flow/index.html",
     "main.7baa976e.css.map": "/flow/static/css/main.7baa976e.css.map",
-    "main.3c0e88c1.js.map": "/flow/static/js/main.3c0e88c1.js.map",
+    "main.6db776d7.js.map": "/flow/static/js/main.6db776d7.js.map",
     "787.e0a751ef.chunk.js.map": "/flow/static/js/787.e0a751ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7baa976e.css",
-    "static/js/main.3c0e88c1.js"
+    "static/js/main.6db776d7.js"
   ]
 }
