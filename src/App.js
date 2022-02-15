@@ -15,9 +15,6 @@ import Contact from "./components/Contact";
 // For Mobile Version 
 import BannerM from './components/BannerM';
 import ProgramM from './components/ProgramM';
-import VideoM from './components/VideoM';
-import VideoMWomen from './components/VideoMWomen';
-import VideoMFrame from './components/VideoMFrame';
 import VideoMVoice from './components/VideoMVoice';
 import QuoteM from './components/QuoteM';
 
@@ -37,26 +34,11 @@ class App extends React.Component {
           <>
           <ReactFullpage 
             fadingEffect
-            afterLoad={(origin, destination, direction) => {
-              console.log("afterLoad event", { origin, destination, direction });
-              if(destination.index === 0  ){
-                window.fullpage_api.fadingEffect.turnOff();
-              }if(destination.index === 1 || destination.index === 2 || destination.index === 3||
-                destination.index === 4 || destination.index === 5){
-                  window.fullpage_api.fadingEffect.turnOn();
-              }else{
-                window.fullpage_api.fadingEffect.turnOff();
-              }
-            }}
-
             render={() => {
               return (
                 <>
                   <BannerM /> 
                   <ProgramM />  
-                  <VideoM /> 
-                  <VideoMWomen /> 
-                  <VideoMFrame /> 
                   <VideoMVoice /> 
                   <QuoteM /> 
                   <Contact /> 

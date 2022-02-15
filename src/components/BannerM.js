@@ -1,7 +1,7 @@
 import React from 'react';
 import lottie from "lottie-web";
 
-import hero from './assets/hero_section_pic.png'
+import hero_m from './assets/hero_section_pic_m.png'
 import stars from './assets/stars.png';
 import soundAnimation from './assets/animation/sound-wave.json'
 import soundAnimation_mobile from './assets/animation/sound-wave.json'
@@ -41,7 +41,7 @@ const BannerM = () =>{
 
                             <div className='col-xxl-6 col-md-6 banner-section_right'>
                                 <div className='banner-image'>
-                                    <img src={hero} alt='Hero section pic' className='img-fluid' />
+                                    <img src={hero_m} alt='Hero section pic' className='img-fluid' />
                                 </div>
                                 <div className='voice'>
                                     <div id='sound-wave_mobile'></div>
@@ -51,7 +51,7 @@ const BannerM = () =>{
                                 </div>
                             </div>
 
-                            <h4>Launching soon! Subscribe to get a 30-day trial</h4>
+                            <h4>Subscribe to get a 30-day for free</h4>
                             <div className='newsletter'>
                                 <MailchimpForm />
                             </div>

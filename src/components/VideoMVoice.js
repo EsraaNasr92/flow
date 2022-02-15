@@ -1,6 +1,6 @@
 import React from "react";
 import lottie from "lottie-web";
-import flow_1 from './assets/animation/flow_1.mp4';
+import vmobile_4 from './assets/animation/vmobile_4.mp4';
 import soundAnimation from './assets/animation/sound-wave.json'
 
 const VideoMVoice = () => {
@@ -13,23 +13,22 @@ const VideoMVoice = () => {
     }, []);
     return(
             <div className='section' id='videoM'>
-               
-                <div className='row'>
-                    <video
-                        src={flow_1}
-                        data-autoplay
-                        muted
-                        loop
-                        playsInline
-                     >
-                    </video> 
-                        
+               <div className="container">
+                    <div className='row'>
+                        <video
+                            src={vmobile_4}
+                            data-autoplay
+                            muted
+                            loop
+                            playsInline
+                        >
+                        </video> 
+                    </div>     
                 </div>
                 <div className='container'>
                     <div className='voice-mobile'>
                         <div id='sound-wave-mobile'></div>
-                        <p>Good job Emily! Now push your hands down into the floor to create
-                            more space between your shoulders and ears.
+                        <p>Try bending your knees and lengthening your spine
                         </p>
                     </div>
                 </div>

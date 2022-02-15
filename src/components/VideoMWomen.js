@@ -1,21 +1,19 @@
 import React from "react";
-import flow_1 from './assets/animation/flow_1.mp4';
+import vmobile_3 from './assets/animation/vmobile_3.mp4';
 
 const VideoMWomen = () => {
     return(
             <div className='section' id='videoM'>
-                <div className='container'>
-                    <div className='row'>
-                        <video
-                            src={flow_1}
+                 <div className='row'>
+                    <video
+                            src={vmobile_3}
                             data-autoplay
                             muted
                             loop
                             playsInline
-                        >
-                        </video> 
+                    >
+                    </video> 
                         
-                    </div>
                 </div>
             </div>   
 

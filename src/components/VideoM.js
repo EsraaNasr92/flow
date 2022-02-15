@@ -1,5 +1,5 @@
 import React from "react";
-import flow_1 from './assets/animation/flow_1.mp4';
+import vmobile_2 from './assets/animation/vmobile_2.mp4';
 
 const VideoM = () => {
     return(
@@ -7,7 +7,7 @@ const VideoM = () => {
                 <div className='container'>
                     <div className='row'>
                         <video
-                            src={flow_1}
+                            src={vmobile_2}
                             data-autoplay
                             muted
                             loop

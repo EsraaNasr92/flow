@@ -1,5 +1,5 @@
 import React from "react";
-import flow_1 from './assets/animation/flow_1.mp4';
+
 
 const ProgramM = () => {
     return(
@@ -16,22 +16,6 @@ const ProgramM = () => {
                             </div>
                         </div>
                     </div>
-                </div>
-
-                <div className='row'>
-                    <div className='video-section__video'>
-                        <video
-                            className='women-video-Mobile'
-                            src={flow_1}
-                            data-autoplay
-                            muted
-                            loop
-                            playsInline
-                        >
-                        </video> 
-                    </div>  
-
-
                 </div>
             </div>   
 
