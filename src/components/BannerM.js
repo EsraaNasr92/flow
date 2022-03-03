@@ -63,8 +63,8 @@ const BannerM = () =>{
                                 <a className='hvr-radial-out' href='https://facebook.com/'>
                                     <i className="fa fa-facebook" aria-hidden="true"></i>
                                 </a>
-                                <a className='hvr-radial-out' href='https://twitter.com/'>
-                                    <i className="fa fa-twitter" aria-hidden="true"></i>
+                                <a className='hvr-radial-out' href='https://tiktok.com/'>
+                                    <i class="fab fa-tiktok"></i>
                                 </a>
                                 <a className='hvr-radial-out' href='https://instgram.com/'>
                                     <i className="fa fa-instagram"></i>

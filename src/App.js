@@ -64,15 +64,24 @@ class App extends React.Component {
         
        afterLoad={(origin, destination, direction) => {
           console.log("afterLoad event", { origin, destination, direction });
-          if(destination.index === 0 || destination.index === 1){
+          if(destination.index === 0 || destination.index === 1 || 
+             destination.index === 2){
             window.fullpage_api.fadingEffect.turnOff();
-          }if(destination.index === 2 || destination.index === 3 || 
-            destination.index === 4 || destination.index === 5 
-            ||destination.index === 6 || destination.index === 7){
+          }if(destination.index === 3 || 
+            destination.index === 4 || destination.index === 5 ){
             window.fullpage_api.fadingEffect.turnOn();
-          }else{
+          }if(destination.index === 6 || destination.index === 7 || 
+              destination.index === 8 ||  destination.index === 9){
             window.fullpage_api.fadingEffect.turnOff();
           }
+          if((destination.index === 5 && direction === "up")|| (destination.index === 6 && direction === "up")){
+            window.fullpage_api.fadingEffect.turnOn();
+          }
+        }}
+
+        onLeave={(origin, destination, direction) => {
+          //console.log("onLeave event", { origin, destination, direction });
+          
         }}
 
         /*afterResponsive={(isResponsive) =>{

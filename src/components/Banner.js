@@ -43,8 +43,8 @@ const Banner = () =>{
                                 <a className='hvr-radial-out' href='https://facebook.com/'>
                                     <i className="fa fa-facebook" aria-hidden="true"></i>
                                 </a>
-                                <a className='hvr-radial-out' href='https://twitter.com/'>
-                                    <i className="fa fa-twitter" aria-hidden="true"></i>
+                                <a className='hvr-radial-out' href='https://tiktok.com/'>
+                                    <i className="fab fa-tiktok"></i>
                                 </a>
                                 <a className='hvr-radial-out' href='https://instgram.com/'>
                                     <i className="fa fa-instagram"></i>
@@ -65,7 +65,8 @@ const Banner = () =>{
                                 <p>Good job Emily! Now push your hands down into the floor to create
                                     more space between your shoulders and ears.
                                 </p>
-                            </div>
+                                <div className="box-shadow"></div>
+                            </div>               
                         </div>
                     </div>
                 </div>
