@@ -757,11 +757,14 @@ position: relative;
   .ant-anchor{
     display: none;
   }
+  a.nav-bar img{
+    width: 50%;
+  }
   /* Banner */
   .banner-section_left h2 {
     font-size: 19px;
     line-height: 30px;
-    padding-top: 55px;
+    padding-top: 15px;
   }
   .newsletter{
     margin: 10px auto;
